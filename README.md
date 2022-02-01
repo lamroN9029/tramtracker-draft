@@ -3,7 +3,7 @@
 </div>
 
 # tramtracker-draft
-my course project for Database System and Software Design on the 3rd year 1st semester.
+My course project for Database System and Software Design in the 3rd year 1st semester.
 
 ## Driver feature
 <div align="center">
